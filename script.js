@@ -23,3 +23,4 @@ option_one_screen.style.display = "none"
 INSERT_VARIABLE.onclick=function(){
 
 };
+
